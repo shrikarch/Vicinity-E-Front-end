@@ -1,0 +1,48 @@
+/*CUSTOM CSS */ 
+body{
+	
+}
+.ding{
+	background-image: url(../img/bgfriends.jpg);
+	width: 100vw;
+	height: 100vh;
+	background-repeat: no-repeat;
+	background-size: contain;
+}
+
+
+
+.whiteFont{
+	p,h1,h2,h3,h4,h5,h6{
+		color: #fff;
+		font-weight: 300;
+	}
+}
+.contrastFont{
+	
+}
+.weightedH{
+	font-weight: 600;
+}
+.greyed{
+	color: #6a6a6a;
+}
+
+
+.transPanel{
+	padding: 2em;
+	background-color: rgba(0,0,0,0.3);
+}
+.spacedSubHeader{
+	padding: 0em 1em 0em 1em;
+	margin-top: -0.5em;
+	letter-spacing: 2px;
+}
+.logInForm{
+	margin: 0em 5em;
+}
+.marginDef{
+	margin-top: 3em;
+	margin-bottom: 5em;	
+}
+	
